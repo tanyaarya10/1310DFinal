@@ -6,6 +6,18 @@ I 310D: Introduction to Human-Centered Data Science
 Professor Abhijit Mishra 
 May 6, 2024
 
+**Dataset**
+
+https://www.kaggle.com/datasets/rahulvyasm/medical-insurance-cost-prediction
+
+This dataset includes 2.7K rows and 7 columns that describe patients in terms of demographics, habits and medical insurance cost.
+
+**Goal**
+
+Analyze the factors that influence medical expenses including age, BMI, sex, smoking status, region, and number of children.
+
+*Which factor has the greatest positive correlation with medical charges?*
+
 Intended for Academic Use only. 
 # Data License: Released under MIT License
 
